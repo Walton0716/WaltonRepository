@@ -1,4 +1,0 @@
-STACK   先進來的后出去
-QUEUE  排隊  先進來的先出去  
-
-MINI Stack
