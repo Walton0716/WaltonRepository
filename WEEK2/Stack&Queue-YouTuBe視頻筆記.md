@@ -1,4 +1,7 @@
 ### Stack&Queue YouTuBe視頻筆記
+
+* [視頻播放](https://www.youtube.com/watch?v=wjI1WNcIntg)
+
 Stack and Queue are both flexible with their sizes, so we don't have to allocate initially them to have a size, we can just add elements if we want and then also shrink it down.   
 **The main difference** comes in how elements are removed from the stack or from the queue.
 * A stack is what would be called a LIFO(last in first out) data structure
