@@ -20,7 +20,7 @@ public static class Queue{
 }
 
     private Node head;//remove from the head  
-    privat Node tail;//add things to the tail
+    private Node tail;//add things to the tail
     public boolean isEmpty{
         return head == null;
     }
