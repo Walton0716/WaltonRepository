@@ -33,12 +33,12 @@ class Node{
 	}
       }
 ```
-example:   
-   	Node nodeA = New Node(6);              nodeA.next = nodeB;
-  	 Node nodeB = New Node(3);              nodeB.next = nodeC;
-  	 Node nodeC = New Node(4);              nodeC.next = nodeD;
-  	 Node nodeA = New Node(2);              nodeD.next = nodeE;
-  	 Node nodeA = New Node(1);
+example:     
+   	 Node nodeA = New Node(6);              nodeA.next = nodeB;  
+  	 Node nodeB = New Node(3);              nodeB.next = nodeC;  
+  	 Node nodeC = New Node(4);              nodeC.next = nodeD;  
+  	 Node nodeA = New Node(2);              nodeD.next = nodeE;  
+  	 Node nodeA = New Node(1);  
 *Step4:*
 ```
        def countNodes(head){
