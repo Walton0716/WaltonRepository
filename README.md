@@ -15,4 +15,4 @@ Hello,這是王翊同的github學習記錄倉庫
 * [課堂筆記Stack&Queue](/StackAndQueue/Stack&Queue.md)
 * [Stack&Queu-YouTuBeNotes](/StackAndQueue/Stack&Queue-YouTuBeNotes.md)
 * [Stack老師代碼](/StackAndQueue/Stack老師代碼.md)
-* [Stack代碼及修正過程](/StackAndQueue/Stack代碼及修正過程)
+* [Stack代碼及修正過程](/StackAndQueue/Stack代碼及修正過程.md)
