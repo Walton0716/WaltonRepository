@@ -34,11 +34,11 @@ class MinStack:
     def getMin(self) -> int:
         return self.head.temp_min
 ```
-运行结果为：ArrtibuteError:'NoneType' Object has no attribute 'data'  
+运行结果为：`ArrtibuteError:'NoneType' Object has no attribute 'data'`  
 
 更正：将push中的 self.next = cur 更改为 self.head.next = cur
 * 正确代码:
-```
+```python
 class Node:
     def __init__(self, val):
         self.data = val
