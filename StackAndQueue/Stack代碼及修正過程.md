@@ -72,4 +72,4 @@ class MinStack:
     def getMin(self) -> int:
         return self.head.temp_min
 ```
-错误原因：*next对象应该是Node class的 MinStack中的self代指的是Minstack对象,所以  而self.head才是node对象 需要用self.head.next*
+* 错误原因：**next对象应该是Node class的 MinStack中的self代指的是Minstack对象,所以  而self.head才是node对象 需要用self.head.next**
