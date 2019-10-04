@@ -1,7 +1,7 @@
 ### “Introduction to Linked List” 視頻筆記：
     an array  =  a long box with many parititions of the same size
     a linked list  =  many boxes that are connected to each other
-*How a lined list can be implemented ?*
+**How a lined list can be implemented ?**  
 *Step1:*  
 The class of the objecst is called Box,
 ```
