@@ -13,7 +13,7 @@
     Average Case:O(n的平方)
      第n筆資料，平均比較n/2次
 #### Demo :wave:
-  - .[Video]()
+  - [Video](http://notepad.yehyeh.net/Content/Algorithm/Sort/Insertion/1.php)
   - 演算法
   ```js
   var insertionSort = function(data){
