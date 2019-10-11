@@ -1,5 +1,5 @@
 ### 第一版LinkedlistCode:
-__WRONG__
+__!WRONG__
 ```python
 class Node(object):
     
@@ -134,7 +134,7 @@ class MyLinkedList(object):
      可能由於在ClassNode部分的對象是self,而cur為self.head沒有next
      所以將cur改爲self即可
 ### 第二版LinkedlistCode:
-__RIGHT__
+__!RIGHT__
 ```Pyhthon
 class Node(object):
     
