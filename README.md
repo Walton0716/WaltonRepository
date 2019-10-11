@@ -16,7 +16,7 @@ Hello,這是王翊同的github學習記錄倉庫
 
 ### WEEK3(9月23日--9月29日) :books:
 * [課堂筆記Stack&Queue](/StackAndQueue/Stack&Queue.md)
-* [Stack&Queu-YouTuBeNotes](/StackAndQueue/Stack&Queue-YouTuBeNotes.md)
+* [Stack&Queue-YouTuBeNotes](/StackAndQueue/Stack&Queue-YouTuBeNotes.md)
 * [Stack老師代碼](/StackAndQueue/Stack老師代碼.md)
 * [Stack代碼及修正過程](/StackAndQueue/Stack代碼及修正過程.md)
 
