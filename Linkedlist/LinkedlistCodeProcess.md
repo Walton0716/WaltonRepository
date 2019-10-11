@@ -1,3 +1,4 @@
+第一版LinkedlistCode  **WRONG**:
 ```python
 class Node(object):
     
@@ -106,3 +107,25 @@ class MyLinkedList(object):
         if cur.next == None:
             self.tail = cur
 ```
+**第一版錯誤部分：**
+```python
+         def get(self, index):
+        """
+        Get the value of the index-th node in the linked list. If the index is invalid, return -1.
+        :type index: int
+        :rtype: int
+        """
+        cur = self.head
+        i = 0
+        if self.head==None:
+            return -1
+        else:
+            while i< index-1:
+                cur = cur.next
+                if cur == None:
+                    return -1
+                i += 1
+        cur = cur.next
+        return cur.val
+ ```
+ **錯誤提示爲：**__AttributeError: 'NoneType' object has no attribute 'val'__
