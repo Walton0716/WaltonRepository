@@ -28,7 +28,7 @@
   }
   ```
 ---
-#### InsertionSort理解:
+### InsertionSort--Example:
      step1.首先給定一組data[2,7,4,8,9,3]
      step2.因爲data[0]左邊沒有數字，所以不需要比較，直接從data[1]開始比較
      step3.data[1]為7，將data[1]與左邊data[0]比較，7>2，所以不用變化,
