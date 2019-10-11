@@ -8,9 +8,9 @@
 ##### 時間複雜度(Time Complexity)
     Best Case:O(1)
      儅資料的順序恰好為由小到大時，每回合只需要比較1次
-    Worst Case:O(n的平方)
+    Worst Case:O(n^2)
      儅資料的順序恰好為由大到小時，第i回合需要比i次
-    Average Case:O(n的平方)
+    Average Case:O(n^2)
      第n筆資料，平均比較n/2次
 #### Demo :wave:
   - [Video](http://notepad.yehyeh.net/Content/Algorithm/Sort/Insertion/1.php)
