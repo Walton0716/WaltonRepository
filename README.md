@@ -20,4 +20,4 @@ Hello,這是王翊同的github學習記錄倉庫
 * [Stack代碼及修正過程](/StackAndQueue/Stack代碼及修正過程.md)
 
 ### WEEK4(9月30日--10月6日)
-* [InsertionSort筆記]()
+* [InsertionSort筆記](/InsertionSort/InsertionSort.md)
