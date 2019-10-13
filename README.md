@@ -6,7 +6,7 @@ Hello,這是王翊同的github學習記錄倉庫
  |Current Unfinished Assignments :thumbsup:
  |---
 - [ ]  | InsertionSortCode-LinkedList
-- [ ]  | QuickSort-Inplace
+- [x]  | QuickSort-Inplace
 - [ ]  | Homework
 
 |Author|王翊同|
