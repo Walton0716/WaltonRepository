@@ -1,3 +1,4 @@
+```python3
 def quickSortHelper(list, front, end):
     if front < end :
         splitpoint = partition(list, front, end)
@@ -23,3 +24,4 @@ def partition(list, front, end):
     list[i] = list[end]
     list[end] = temp
     return i
+```
