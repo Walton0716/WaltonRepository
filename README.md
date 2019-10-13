@@ -27,3 +27,6 @@ Hello,這是王翊同的github學習記錄倉庫
 ### WEEK4(9月30日--10月6日) :books:
 * [InsertionSort筆記](/InsertionSort/InsertionSort.md)
 * [QuickSort筆記](/QuickSort/QuickSort.md)
+
+### WEEK5(10月7日--10月13日) :books:
+* [QuickSort-code-Array](/QuickSort/)
