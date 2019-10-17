@@ -3,7 +3,7 @@
   * [測試代碼](#測試代碼)
   * [説明](#説明)
   * [流程圖](#流程圖)
-### code:
+### ·code:
 ```python3
 def quickSortHelper(list, front, end):
     if front < end :
@@ -31,7 +31,7 @@ def partition(list, front, end):
     list[end] = temp
     return i
 ```
-### 測試代碼：
+### ·測試代碼：
 ```python
 list = [23,46,12,3,56,28,45]
 quickSort(list)
@@ -40,7 +40,7 @@ print(list)
 ```python
 [3, 12, 23, 28, 45, 46, 56]
 ```
-### 説明：
+### ·説明：
 #### 對quickSorterHelper()函數的解釋：  
     首先控制條件，看輸入的front和end是否符合數列排序的要求.儅符合要求時，進行partition(),對函數進行第一次排序，并將值返回給splitpoint.讓后再次
     進行quickSortHepler(),此時進行的是小於pivot的數列和大於pivot的數列。
