@@ -18,7 +18,7 @@ def partition(list, front, end):
     pivot = list[end]
     i = front-1
     j = front
-    while j<end:
+    while j<len(list):
         if list[j]<pivot:
             i += 1
             temp = list[i]
