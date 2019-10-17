@@ -56,4 +56,4 @@ print(list)
 * `j`是控制while循環，讓每個數都與pivot比較的index，從front檢查到end-1，因爲end是pivot自己
 * `pivot`是在數列中所挑選的基準點，可以是任意的。選擇array[end]是爲了方便
 ### :star:流程圖:
-![avatar](/Images/circle.png =100x100)
+![avatar](/Images/circle.png 100x100)
