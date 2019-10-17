@@ -59,5 +59,5 @@ print(list)
 ### :star:TimeComplexities演算法
 ### :star:流程圖:
 ![avater](/Images/circle.png)
-![avater](/Images/circle1.jpg)
 ![avater](/Images/circle2.jpg)
+![avater](/Images/circle1.jpg)
