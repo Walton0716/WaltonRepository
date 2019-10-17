@@ -1,5 +1,5 @@
 ## QuickSort-Code-Array
-  * [code](https://github.com/Walton0716/WaltonRepository/edit/master/QuickSort/QuickSortArray.md#code)
+  * [code](#code)
   * [説明]()
   * [注解]()
   * [流程圖]()
