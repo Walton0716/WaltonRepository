@@ -1,8 +1,8 @@
 ## QuickSort-Code-Array
-  * [code](#code)
-  * [測試代碼](#測試代碼)
-  * [説明](#説明)
-  * [流程圖](#流程圖)
+  * [code](#:star:code)
+  * [測試代碼](#:star:測試代碼)
+  * [説明](#:star:説明)
+  * [流程圖](#:star:流程圖)
 ### :star:code:
 ```python3
 def quickSortHelper(list, front, end):
