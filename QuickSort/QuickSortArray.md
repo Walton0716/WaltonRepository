@@ -3,6 +3,7 @@
   * [説明]()
   * [注解]()
   * [流程圖]()
+  * [測試代碼]()
 ### code:
 ```python3
 def quickSortHelper(list, front, end):
