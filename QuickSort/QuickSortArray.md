@@ -49,7 +49,7 @@ print(list)
 #### 對quickSort()函數的解釋：
     用戶輸入時，只需打出quickSort(array1,number1,number2)即可排列數列的指定區間。
 #### 對partition()函數的解釋：
-**`parition()`的功能是把一個數列分成`[大於pivot]`和`[小於pivot]`兩個部分**
+**`parition()`的功能是把一個數列分成`[大於pivot]`和`[小於pivot]`兩個部分**    
 變數的含義：  
 * `front`為這個數列的`最前面`的index  
 * `end`為這個數列的`最尾端`的index  
