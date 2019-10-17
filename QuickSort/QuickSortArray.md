@@ -28,7 +28,7 @@ def partition(list, front, end):
     return i
 ```
 ### 對quickSorterHelper()函數的解釋：  
-    首先控制條件，看輸入的front和end是否符合數列排序的要求.儅符合要求時，進行partitio(),對函數進行第一次排序，并將值返回給splitpoint.讓后再次
+    首先控制條件，看輸入的front和end是否符合數列排序的要求.儅符合要求時，進行partition(),對函數進行第一次排序，并將值返回給splitpoint.讓后再次
     進行quickSortHepler(),此時進行的是小於pivot的數列和大於pivot的數列。
     因此，分成兩部分:quickSortHelper(list,front,splitpoint-1)--小於pivot的部分,quickSortHelper(list,splitpoint+1,end)--大於pivot的部分。  
 ### 對quickSort()函數的解釋：
