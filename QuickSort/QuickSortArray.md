@@ -28,12 +28,14 @@ def partition(list, front, end):
     return i
 ```
 ### 對quickSorterHelper()函數的解釋：  
-        首先控制條件，看輸入的front和end是否符合數列排序的要求.儅符合要求時，進行partitio(),對函數進行第一次排序，并將值返回給splitpoint.讓后再次
-        進行quickSortHepler(),此時進行的是小於pivot的數列和大於pivot的數列。
-        因此，分成兩部分:quickSortHelper(list,front,splitpoint-1)--小於pivot的部分,quickSortHelper(list,splitpoint+1,end)--大於pivot的部分。  
-
-#### `parition()`的功能是把一個數列分成`[大於pivot]`和`[小於pivot]`兩個部分
-##### 變數的含義：  
+    首先控制條件，看輸入的front和end是否符合數列排序的要求.儅符合要求時，進行partitio(),對函數進行第一次排序，并將值返回給splitpoint.讓后再次
+    進行quickSortHepler(),此時進行的是小於pivot的數列和大於pivot的數列。
+    因此，分成兩部分:quickSortHelper(list,front,splitpoint-1)--小於pivot的部分,quickSortHelper(list,splitpoint+1,end)--大於pivot的部分。  
+### 對quickSort()函數的解釋：
+    用戶輸入是，只需打出quickSort(array1,number1,number2)即可排列數列的指定區間。
+### 對partition()函數的解釋：
+**`parition()`的功能是把一個數列分成`[大於pivot]`和`[小於pivot]`兩個部分**
+變數的含義：  
 * `front`為這個數列的`最前面`的index  
 * `end`為這個數列的`最尾端`的index  
 * `i`為所有小於pivot的數所形成的數列的最後位置
