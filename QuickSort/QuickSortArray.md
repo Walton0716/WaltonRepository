@@ -2,6 +2,7 @@
   * [code](#starcode)
   * [測試代碼](#star測試代碼)
   * [説明](#star説明)
+  * [TimeComplexities演算法](#starTimeComplexities演算法)
   * [流程圖](#star流程圖)
 ### :star:code:
 ```python3
@@ -55,5 +56,8 @@ print(list)
 * `i`為所有小於pivot的數所形成的數列的最後位置
 * `j`是控制while循環，讓每個數都與pivot比較的index，從front檢查到end-1，因爲end是pivot自己
 * `pivot`是在數列中所挑選的基準點，可以是任意的。選擇array[end]是爲了方便
+### :star:TimeComplexities演算法
 ### :star:流程圖:
 ![avater](/Images/circle.png)
+![avater](/Images/circle1.jpg)
+![avater](/Images/circle2.png)
