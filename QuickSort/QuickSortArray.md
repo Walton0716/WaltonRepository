@@ -1,4 +1,8 @@
 ## QuickSort-Code-Array
+  * [code](https://github.com/Walton0716/WaltonRepository/edit/master/QuickSort/QuickSortArray.md#code)
+  * [説明]()
+  * [注解]()
+  * [流程圖]()
 ### code:
 ```python3
 def quickSortHelper(list, front, end):
