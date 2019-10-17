@@ -55,3 +55,5 @@ print(list)
 * `i`為所有小於pivot的數所形成的數列的最後位置
 * `j`是控制while循環，讓每個數都與pivot比較的index，從front檢查到end-1，因爲end是pivot自己
 * `pivot`是在數列中所挑選的基準點，可以是任意的。選擇array[end]是爲了方便
+### :star:流程圖:
+<img src="Images/circle.png" alt=circle" title="王翊同" width="40%">
