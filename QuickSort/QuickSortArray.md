@@ -1,5 +1,5 @@
 ## QuickSort-Code-Array
-   [補充：因爲.ipynb文件load不出來，所以將文件類型改爲.md。代碼是可以完整運行的。]
+   *[補充：因爲.ipynb文件load不出來，所以將文件類型改爲.md。代碼是可以完整運行的。]*
   * [code](#starcode)
   * [測試代碼](#star測試代碼)
   * [説明](#star説明)
