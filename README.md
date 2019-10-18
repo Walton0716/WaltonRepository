@@ -12,7 +12,7 @@ Hello,這是王翊同的github學習記錄倉庫
 |Author|王翊同|
 |---|---
 |E-mail|yitongwang596@gmail.com
-### HOMEWORK:music:
+## HOMEWORK:books:
 * [10月18日-QuickSort](/QuickSort/QuickSortArray.md)
 
 ### WEEK2(9月9日--9月22日) :books:
