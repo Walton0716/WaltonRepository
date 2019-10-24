@@ -35,4 +35,5 @@ Hello,這是王翊同的github學習記錄倉庫
 * [TimeComplexities](/QuickSort/TimeComplexities.md)
 
 ### WEEK6(10月14日--10月21日) :books:
+* [Heap的介紹](/HeapSort/Heap的介紹.md)
 * [HeapSort]()
