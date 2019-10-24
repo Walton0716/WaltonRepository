@@ -33,3 +33,6 @@ Hello,這是王翊同的github學習記錄倉庫
 ### WEEK5(10月7日--10月13日) :books:
 * [QuickSort-code-Array](/QuickSort/QuickSortArray.md)
 * [TimeComplexities](/QuickSort/TimeComplexities.md)
+
+### WEEK6(10月14日--10月21日) :books:
+* [HeapSort]()
