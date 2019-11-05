@@ -5,4 +5,4 @@
 >#### 解説：
 >>合并排序中，`數的分割不需要耗費執行時間(可以想象成數列早已分割完畢)。要合并兩個排序完成的數列只需反復比較第一個數，將較小的數移動到上層的群組，`所以執行時間跟兩個數列的長度有關。同一階層裡的合併執行時間，取決於該層的數有多少。
 #### 舉例：
-！[image](https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif)
+![image](https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif)
