@@ -35,3 +35,7 @@ Hello,這是王翊同的github學習記錄倉庫
 ### WEEK6(10月14日--10月21日) :books:
 * [Heap的介紹](/HeapSort/Heap的介紹.md)
 * [HeapSort](/HeapSort/HeapSort.md)
+
+### WEEK6(10月22日--10月29日) :books:
+* [MergeSort的介紹]()
+* [MergeSort]()
