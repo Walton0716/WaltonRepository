@@ -22,12 +22,12 @@ def heapify(arr,front,end):
     width = front-1
     for i in range(b,-1,-1):
         if (2*i+1)< n:
-            if arr[i+width] > arr[2*i+1+width]:
+            if arr[i+width] < arr[2*i+1+width]:
                 temp = arr[i+width]
                 arr[i+width] = arr[2*i+width+1]
                 arr[2*i+width+1] = temp
         if (2*i+2) < n:
-            if arr[i+width] > arr[2*i+2+width]:
+            if arr[i+width] < arr[2*i+2+width]:
                 temp = arr[i+width]
                 arr[i+width] = arr[2*i+2+width]
                 arr[2*i+2+width] = temp
