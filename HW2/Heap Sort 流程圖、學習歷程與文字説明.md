@@ -3,9 +3,9 @@
 :two:**Heap Sort文字説明**      
 :three:**Heap Sort學習歷程**  
 
-### Heap Sort流程图:page_facing_up: 
+### :one:Heap Sort流程图:page_facing_up: 
 ![](https://i.imgur.com/pEF5ran.jpg)
-### Heap Sort文字説明:page_facing_up: 
+### :two:Heap Sort文字説明:page_facing_up: 
 **heap_sort代碼主要有兩部分**：`heapify()`和`heap_sort()`組成。 
 > :paperclip:**heapify()部分：**
 > > `front`:進行heapsort的初始位置
@@ -36,7 +36,7 @@
 > > > heap_sort()先讓整個數列進行一次heapify(),讓後讓root放在整個數列的end位置，讓後將front與end-1位進行heapify(),把root放在整個數列的end-1位置，以此類推。
 > > > 最後，整個數列變成由小到大的順序。
 
-### Heap Sort學習歷程:page_facing_up: 
+### :three:Heap Sort學習歷程:page_facing_up: 
 1. 在進行HeapSort代碼的編寫之前，先瀏覽了老師推薦的《演算法圖鑑》1-7章節(堆積Heap),更加細緻地了解了Heap的相關內容，感覺很不錯。:paperclip:   [Heap介紹](/HeapSort/Heap的介紹.md)  
 ![](https://i.imgur.com/jHgn3ur.jpg)
 2. 看完Heap的介紹後，又瀏覽了2-5章節(堆積排序heap sort)，將heap sort的排序方法了解了。
