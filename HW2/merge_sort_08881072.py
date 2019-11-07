@@ -1,4 +1,3 @@
-#### [思路參考：http://alrightchiu.github.io/SecondRound/comparison-sort-merge-sorthe-bing-pai-xu-fa.html]
 ###### merge_sort_ID.py
 
 class Solution(object):
