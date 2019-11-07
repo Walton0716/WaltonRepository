@@ -35,8 +35,8 @@
 > > > 最後，整個數列變成由小到大的順序。
 
 ### Heap Sort學習歷程:page_facing_up: 
-1. 在進行HeapSort代碼的編寫之前，先瀏覽了老師推薦的《演算法圖鑑》1-7章節(堆積Heap),更加細緻地了解了Heap的相關內容，感覺很不錯。
-:page_facing_up:   * [Heap介紹](/HeapSort/HeapSort介紹.md)
+1. 在進行HeapSort代碼的編寫之前，先瀏覽了老師推薦的《演算法圖鑑》1-7章節(堆積Heap),更加細緻地了解了Heap的相關內容，感覺很不錯。  
+:paperclip:   [Heap介紹](/HeapSort/Heap的介紹.md)
 2. 看完Heap的介紹後，又瀏覽了2-5章節(堆積排序heap sort)，將heap sort的排序方法了解了。
 3. 一切都看完後，先將老師的代碼跑一邊，發現可行，瀏覽老師的代碼以後，發現主要思想：  
 **抓住每個children與自己father的位置之間的聯繫，思考他們的位置如何通過相關的變量來控制。**
