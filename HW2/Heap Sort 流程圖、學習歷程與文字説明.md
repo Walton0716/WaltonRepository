@@ -4,7 +4,7 @@
 3.**Heap Sort學習歷程**  :page_facing_up: 
 
 ### :one:Heap Sort流程图
-##### 舉例説明： [3, -2, 4, 7, 1]
+#### 舉例説明： 
 ![](https://i.imgur.com/pEF5ran.jpg)
 ### :two:Heap Sort文字説明 
 **heap_sort代碼主要有兩部分**：`heapify()`和`heap_sort()`組成。 
