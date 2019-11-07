@@ -1,5 +1,5 @@
 # Heap Sort 流程圖、學習歷程與文字説明：:books: 
-1.**Heap Sort流程圖**  :page_facing_up: 
+1.**Heap Sort流程圖**    :page_facing_up: 
 2.**Heap Sort文字説明**    :page_facing_up:       
 3.**Heap Sort學習歷程**  :page_facing_up: 
 
