@@ -1,7 +1,7 @@
-# Heap Sort 流程圖、學習歷程與文字説明：:book: 
-:one:**Heap Sort文字説明**
-:two:**Heap Sort學習歷程**
-:three:**Heap Sort流程圖**
+# Heap Sort 流程圖、學習歷程與文字説明：:books: 
+:one:**Heap Sort文字説明**  
+:two:**Heap Sort學習歷程**  
+:three:**Heap Sort流程圖**  
 
 ### Heap Sort文字説明:page_facing_up: 
 **heap_sort代碼主要有兩部分**：`heapify()`和`heap_sort()`組成。 
