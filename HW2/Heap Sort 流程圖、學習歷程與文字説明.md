@@ -1,7 +1,7 @@
 # Heap Sort 流程圖、學習歷程與文字説明：:books: 
-:one:**Heap Sort流程圖**
-:two:**Heap Sort文字説明**  
-:three:**Heap Sort學習歷程**
+:one:**Heap Sort流程圖**  
+:two:**Heap Sort文字説明**      
+:three:**Heap Sort學習歷程**  
 
 ### Heap Sort流程图:page_facing_up: 
 ![](https://i.imgur.com/pEF5ran.jpg)
