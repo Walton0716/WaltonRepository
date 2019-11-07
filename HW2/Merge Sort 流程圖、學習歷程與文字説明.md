@@ -27,7 +27,7 @@
 
 
 ### :three:Heap Sort學習歷程
-1. 首先學習了《演算法圖鑒》2-6章節(合并排序mergr sort)，對mergesort排序法進行了瞭解。:paperclip:* [MergeSort的介紹](/MergeSort/MergeSort介绍.md)
+1. 首先學習了《演算法圖鑒》2-6章節(合并排序mergr sort)，對mergesort排序法進行了瞭解。:paperclip: [MergeSort的介紹](/MergeSort/MergeSort介绍.md)
 2. 觀看了網站（http://alrightchiu.github.io/SecondRound/comparison-sort-merge-sorthe-bing-pai-xu-fa.html）
 的思路后，瞭解到需要運用到**遞歸**的思想
 3. 看了一下大概思路后，開始自己進行代碼的編寫，感覺最難理解的地方是：
