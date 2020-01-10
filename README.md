@@ -5,9 +5,9 @@ Hello,這是王翊同的github學習記錄倉庫
 
  |Current Unfinished Assignments :thumbsup:
  |---
-- [ ]  | InsertionSortCode-LinkedList
-- [x]  | QuickSort-Inplace
-- [x]  | Homework
+- [ ]  | BlockChain
+- [x]  | Shortest Path
+- [x]  | Minimum Spanning Tree
 
 |Author|王翊同|
 |---|---
