@@ -47,7 +47,7 @@ Hello,這是王翊同的github學習記錄倉庫
 ### WEEK6(11月11日--11月17日) :books:
 
 ### WEEK6(11月18日--11月24日) :books:
-
+* [HashTable](/HashTable/hashtable.py)
 ### WEEK6(11月25日--12月1日) :books:
 
 ### WEEK6(12月2日--12月8日) :books:
