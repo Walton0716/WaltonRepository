@@ -45,8 +45,8 @@ Hello,這是王翊同的github學習記錄倉庫
 ### WEEK6(11月4日--11月10日) :books:
 
 ### WEEK6(11月11日--11月17日) :books:
-* [BinarrSearchTree最初版](/BinarySearchTree/binarysearchtree最初版.py)
-* [BinarrSearchTree修訂版](/BinarySearchTree/binarysearchtree修訂版.py)
+* [BinarySearchTree最初版](/BinarySearchTree/binarysearchtree最初版.py)
+* [BinarySearchTree修訂版](/BinarySearchTree/binarysearchtree修訂版.py)
 ### WEEK6(11月18日--11月24日) :books:
 * [HashTable](/HashTable/hashtable.py)
 ### WEEK6(11月25日--12月1日) :books:
