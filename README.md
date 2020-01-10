@@ -49,5 +49,9 @@ Hello,這是王翊同的github學習記錄倉庫
 ### WEEK6(11月18日--11月24日) :books:
 * [HashTable](/HashTable/hashtable.py)
 ### WEEK6(11月25日--12月1日) :books:
-
+* [BFS](/HW5/BFS_08881072.py)
+* [BFS](/HW5/BFS_08881072.py)
 ### WEEK6(12月2日--12月8日) :books:
+* [DFS](/HW5/BFS_08881072.py)
+* [DFS流程圖](/HW5/BFS_08881072.py)
+* [DFS與BFS比較](/HW5/BFS_08881072.py)
